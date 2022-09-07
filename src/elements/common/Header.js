@@ -49,13 +49,13 @@ const Header = () => {
               <Link to="#mobileApp" smooth className="font-semibold text-white">
                 Showcase
               </Link>
-              <Link to="/contact" className="font-semibold text-white">
+              <Link to="" className="font-semibold text-white">
                 Team
               </Link>{" "}
-              <Link to="/" className="font-semibold text-white">
+              <Link to="" className="font-semibold text-white">
                 FAQ
               </Link>
-              <Link to="/contact" className="font-semibold text-white">
+              <Link to="" className="font-semibold text-white">
                 Screenshot
               </Link>
             </nav>
