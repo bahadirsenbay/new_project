@@ -4,7 +4,7 @@ import { Components } from "../elements/Components";
 const Home = () => {
   return (
     <>
-      <div className=" bg-red-500 after:content:[''] after:bg-bg-hero bg-no-repeat bg-bottom">
+      <div className="bg-bg-hero bg-no-repeat bg-bottom bg-red-500 ">
         <Components.Home.HeroSection />
       </div>
       <Components.Home.FourBoxSection />
